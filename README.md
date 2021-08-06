@@ -1,2 +1,3 @@
 # Analog-Clock
-Web Development Project 
+- Web Development Project 
+- Made using JS
